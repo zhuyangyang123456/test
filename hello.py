@@ -6,3 +6,4 @@ Created on Thu Sep 23 20:59:05 2021
 """
 
 print("hello world!")
+print("老板是神经病")
