@@ -8,7 +8,6 @@ def f(x,y):
     print(x+y)
 def main():
     f(1,2)
-    f(3,4)
 if __name__=='__main__':
     main()
     
